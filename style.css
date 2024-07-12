@@ -12,7 +12,7 @@ header{
     top: 0;
     left: 0;
     background-color: #1f8d9b(255, 255, 255, 0.571);
-    height: 50px;
+    height: 60px;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -63,20 +63,12 @@ h2{
     color: white;
     background-color: rgba(255, 255, 255, 0.274);
     margin-top: 170px;
-    height: 90vh;
+    height: 100vh;
     padding: 0 350px;
     font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-
-}
-
-section .video{
-    margin: auto;
-    width: 60%;
-    height: 4%;
-    display: flex;
 
 }
 
@@ -135,8 +127,7 @@ h4{
     
 .video2{
     text-align: center;
-    height: 60vh;
-    padding: 0 350px;
+    padding: 0 470px;
     display: flex;
     justify-content: center;
     align-items: center;
